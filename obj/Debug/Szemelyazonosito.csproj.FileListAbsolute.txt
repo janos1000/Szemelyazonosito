@@ -1,0 +1,7 @@
+C:\Users\BirinyiJZ\Gitwork\Szemelyazonosito\bin\Debug\Szemelyazonosito.exe.config
+C:\Users\BirinyiJZ\Gitwork\Szemelyazonosito\bin\Debug\Szemelyazonosito.exe
+C:\Users\BirinyiJZ\Gitwork\Szemelyazonosito\bin\Debug\Szemelyazonosito.pdb
+C:\Users\BirinyiJZ\Gitwork\Szemelyazonosito\obj\Debug\Szemelyazonosito.csproj.AssemblyReference.cache
+C:\Users\BirinyiJZ\Gitwork\Szemelyazonosito\obj\Debug\Szemelyazonosito.csproj.CoreCompileInputs.cache
+C:\Users\BirinyiJZ\Gitwork\Szemelyazonosito\obj\Debug\Szemelyazonosito.exe
+C:\Users\BirinyiJZ\Gitwork\Szemelyazonosito\obj\Debug\Szemelyazonosito.pdb
